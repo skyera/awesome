@@ -1,3 +1,3 @@
 # mywiki
 
-This is my wiki.
+https://github.com/LeCoupa/awesome-cheatsheets
