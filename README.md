@@ -12,3 +12,6 @@ https://github.com/RafaelCasamaximo/contExt
 https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase
 
 https://github.com/Magic-wei/DearBagPlayer
+
+## Vim
+https://github.com/gmr458/.dotfiles
