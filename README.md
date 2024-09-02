@@ -17,3 +17,5 @@ https://github.com/Magic-wei/DearBagPlayer
 https://github.com/gmr458/.dotfiles
 
 https://github.com/Vallen217/dotfiles
+
+https://github.com/bibjaw99/workstation
