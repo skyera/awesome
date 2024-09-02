@@ -23,3 +23,5 @@ https://github.com/bibjaw99/workstation
 https://www.naperwrimo.org/wiki/index.php?title=Vim_for_Writers
 
 https://quickref.me/vim
+
+https://github.com/chxuan/vimplus
