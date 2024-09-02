@@ -15,3 +15,4 @@ https://github.com/Magic-wei/DearBagPlayer
 
 ## Vim
 https://github.com/gmr458/.dotfiles
+https://github.com/Vallen217/dotfiles
