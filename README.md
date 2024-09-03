@@ -4,6 +4,7 @@
 * https://itsfoss.com/ascii-art-linux-terminal/
 * https://serenityos.org/
 * https://morefine.com/
+* https://news.ycombinator.com/
 * https://bellard.org/
 * https://justine.lol/
 
