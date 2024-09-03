@@ -45,3 +45,6 @@ https://github.com/amix/vimrc
 * https://zim-wiki.org/index.html
 * https://mobaxterm.mobatek.net/
 * https://conemu.github.io/
+* http://cgdb.github.io/
+* https://www.gnu.org/software/ddd/
+* https://github.com/tmux/tmux
