@@ -52,3 +52,4 @@ https://github.com/amix/vimrc
 * https://www.gnu.org/software/ddd/
 * https://github.com/tmux/tmux
 * https://ranger.fm/
+* https://sourceforge.net/projects/vcxsrv/
