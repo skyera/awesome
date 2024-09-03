@@ -25,3 +25,5 @@ https://www.naperwrimo.org/wiki/index.php?title=Vim_for_Writers
 https://quickref.me/vim
 
 https://github.com/chxuan/vimplus
+
+https://github.com/amix/vimrc
