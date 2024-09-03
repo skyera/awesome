@@ -2,6 +2,7 @@
 
 * https://github.com/LeCoupa/awesome-cheatsheets
 * https://itsfoss.com/ascii-art-linux-terminal/
+* https://boxes.thomasjensen.com/
 * https://serenityos.org/
 * https://morefine.com/
 * https://news.ycombinator.com/
