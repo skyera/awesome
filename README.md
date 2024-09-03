@@ -5,7 +5,7 @@
 * https://serenityos.org/
 * https://ranger.fm/
 * https://morefine.com/
-* https://alacritty.org/
+
 
 ## Dearpygui
 https://github.com/RafaelCasamaximo/contExt
@@ -28,3 +28,6 @@ https://quickref.me/vim
 https://github.com/chxuan/vimplus
 
 https://github.com/amix/vimrc
+
+## Tools
+* https://alacritty.org/
