@@ -3,8 +3,9 @@
 * https://github.com/LeCoupa/awesome-cheatsheets
 * https://itsfoss.com/ascii-art-linux-terminal/
 * https://serenityos.org/
-* https://ranger.fm/
 * https://morefine.com/
+* https://bellard.org/
+* https://justine.lol/
 
 
 ## Dearpygui
@@ -48,3 +49,4 @@ https://github.com/amix/vimrc
 * http://cgdb.github.io/
 * https://www.gnu.org/software/ddd/
 * https://github.com/tmux/tmux
+* https://ranger.fm/
