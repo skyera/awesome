@@ -53,3 +53,4 @@ https://github.com/amix/vimrc
 * https://github.com/tmux/tmux
 * https://ranger.fm/
 * https://sourceforge.net/projects/vcxsrv/
+* https://getgreenshot.org/
