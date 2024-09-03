@@ -5,6 +5,7 @@
 * https://serenityos.org/
 * https://ranger.fm/
 * https://morefine.com/
+* https://alacritty.org/
 
 ## Dearpygui
 https://github.com/RafaelCasamaximo/contExt
