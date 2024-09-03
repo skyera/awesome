@@ -31,3 +31,17 @@ https://github.com/amix/vimrc
 
 ## Tools
 * https://alacritty.org/
+* https://www.chiark.greenend.org.uk/~sgtatham/putty/
+* https://github.com/BurntSushi/ripgrep
+* https://github.com/sharkdp/fd
+* https://github.com/neovide/neovide
+* https://github.com/sharkdp/bat
+* https://github.com/fastfetch-cli/fastfetch
+* https://chocolatey.org/
+* https://sourceforge.net/projects/staruml/
+* https://sourceforge.net/projects/dia-installer/
+* https://www.voidtools.com/
+* https://neovim.io/
+* https://zim-wiki.org/index.html
+* https://mobaxterm.mobatek.net/
+* https://conemu.github.io/
