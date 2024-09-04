@@ -55,3 +55,4 @@ https://github.com/amix/vimrc
 * https://ranger.fm/
 * https://sourceforge.net/projects/vcxsrv/
 * https://getgreenshot.org/
+* https://github.com/junegunn/fzf
