@@ -56,3 +56,4 @@ https://github.com/amix/vimrc
 * https://sourceforge.net/projects/vcxsrv/
 * https://getgreenshot.org/
 * https://github.com/junegunn/fzf
+* https://github.com/lsd-rs/lsd
