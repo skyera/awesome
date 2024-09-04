@@ -57,3 +57,4 @@ https://github.com/amix/vimrc
 * https://getgreenshot.org/
 * https://github.com/junegunn/fzf
 * https://github.com/lsd-rs/lsd
+* https://tldr.sh/
