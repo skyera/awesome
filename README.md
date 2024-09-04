@@ -8,15 +8,21 @@
 * https://bellard.org/
 * https://justine.lol/
 
+### Library
+* https://github.com/nothings/stb
+* https://github.com/p-ranav/awesome-hpp
+* https://github.com/fffaraz/awesome-cpp
 
-## Dearpygui
+
+
+### Dearpygui
 https://github.com/RafaelCasamaximo/contExt
 
 https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase
 
 https://github.com/Magic-wei/DearBagPlayer
 
-## Vim
+### Vim
 https://github.com/gmr458/.dotfiles
 
 https://github.com/Vallen217/dotfiles
@@ -31,7 +37,7 @@ https://github.com/chxuan/vimplus
 
 https://github.com/amix/vimrc
 
-## Tools
+###Tools
 * https://alacritty.org/
 * https://www.chiark.greenend.org.uk/~sgtatham/putty/
 * https://github.com/BurntSushi/ripgrep
