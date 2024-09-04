@@ -49,6 +49,7 @@ https://github.com/amix/vimrc
 * https://mobaxterm.mobatek.net/
 * https://conemu.github.io/
 * http://cgdb.github.io/
+* https://ohmyz.sh/
 * https://www.gnu.org/software/ddd/
 * https://github.com/tmux/tmux
 * https://ranger.fm/
