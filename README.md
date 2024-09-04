@@ -1,4 +1,5 @@
 
+
 * https://github.com/LeCoupa/awesome-cheatsheets
 * https://itsfoss.com/ascii-art-linux-terminal/
 * https://boxes.thomasjensen.com/
@@ -37,7 +38,7 @@ https://github.com/chxuan/vimplus
 
 https://github.com/amix/vimrc
 
-###Tools
+### Tools
 * https://alacritty.org/
 * https://www.chiark.greenend.org.uk/~sgtatham/putty/
 * https://github.com/BurntSushi/ripgrep
