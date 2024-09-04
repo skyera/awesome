@@ -8,6 +8,7 @@
 * https://news.ycombinator.com/
 * https://bellard.org/
 * https://justine.lol/
+* https://godbolt.org/
 
 ### Library
 * https://github.com/nothings/stb
