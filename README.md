@@ -9,6 +9,7 @@
 * https://bellard.org/
 * https://justine.lol/
 * https://godbolt.org/
+* https://github.com/chubin/wttr.in
 
 ### Library
 * https://github.com/nothings/stb
