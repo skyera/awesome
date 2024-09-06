@@ -10,6 +10,7 @@
 * https://justine.lol/
 * https://godbolt.org/
 * https://github.com/chubin/wttr.in
+* https://github.com/LewisJEllis/awesome-lua
 
 ### Library
 * https://github.com/nothings/stb
