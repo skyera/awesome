@@ -14,10 +14,12 @@
 * https://vimawesome.com/
 * https://github.com/OpenGithubs/github-monthly-rank
 
-### Library
-* https://github.com/nothings/stb
-* https://github.com/p-ranav/awesome-hpp
-* https://github.com/fffaraz/awesome-cpp
+### 🟧 Library
+* doctest - fastest, single header testing framework: https://github.com/doctest/doctest
+* nanobench - run small microbenchmakrs: https://github.com/andreas-abel/nanoBench
+* stb C/C++: https://github.com/nothings/stb
+* header-only C++ libraies: https://github.com/p-ranav/awesome-hpp
+* list of C/C++ stuffs: https://github.com/fffaraz/awesome-cpp
 
 
 
