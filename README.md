@@ -1,7 +1,7 @@
 ### 🎈Awesome
 
-* Cheatsheets https://github.com/LeCoupa/awesome-cheatsheets
-* https://itsfoss.com/ascii-art-linux-terminal/
+* 📝 Cheatsheets: https://github.com/LeCoupa/awesome-cheatsheets
+* 📕 10 Tools to Generate and Have Fun With ASCII Art in Linux Terminal: https://itsfoss.com/ascii-art-linux-terminal/
 * https://boxes.thomasjensen.com/
 * https://serenityos.org/
 * https://morefine.com/
