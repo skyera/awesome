@@ -70,3 +70,4 @@ https://github.com/amix/vimrc
 * https://github.com/lsd-rs/lsd
 * https://tldr.sh/
 * https://github.com/cyrus-and/gdb-dashboard
+* 🌶 Valgrind: https://valgrind.org/
