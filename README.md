@@ -5,8 +5,8 @@
 * 💡 Command line ASCII boxes: https://boxes.thomasjensen.com/
 * https://serenityos.org/
 * https://morefine.com/
-* https://news.ycombinator.com/
-* https://bellard.org/
+* 🔋 Hacker News: https://news.ycombinator.com/
+* 🔶 Fabrice Bellar: https://bellard.org/
 * https://justine.lol/
 * https://godbolt.org/
 * https://github.com/chubin/wttr.in
