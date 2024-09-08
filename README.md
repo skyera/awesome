@@ -17,9 +17,12 @@
 ### 🟧 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
 * nanobench - run small microbenchmakrs: https://github.com/andreas-abel/nanoBench
+* FakeIt - C++ mocking: https://github.com/eranpeer/FakeIt
+* JSON - C++ single header library: https://github.com/nlohmann/json
 * stb C/C++: https://github.com/nothings/stb
 * header-only C++ libraies: https://github.com/p-ranav/awesome-hpp
 * list of C/C++ stuffs: https://github.com/fffaraz/awesome-cpp
+* Dear ImGui: https://github.com/ocornut/imgui
 
 
 
