@@ -44,30 +44,31 @@ https://github.com/chxuan/vimplus
 https://github.com/amix/vimrc
 
 ### Tools
-* https://alacritty.org/
-* https://www.chiark.greenend.org.uk/~sgtatham/putty/
-* https://github.com/BurntSushi/ripgrep
-* https://github.com/sharkdp/fd
-* https://github.com/neovide/neovide
-* https://github.com/sharkdp/bat
-* https://github.com/fastfetch-cli/fastfetch
-* https://chocolatey.org/
-* https://sourceforge.net/projects/staruml/
-* https://sourceforge.net/projects/dia-installer/
-* https://www.voidtools.com/
-* https://neovim.io/
-* https://zim-wiki.org/index.html
-* https://mobaxterm.mobatek.net/
-* https://conemu.github.io/
-* http://cgdb.github.io/
+* Alacritty terminal emulator: https://alacritty.org/
+* Putty: https://www.chiark.greenend.org.uk/~sgtatham/putty/
+* ripgrep search tool: https://github.com/BurntSushi/ripgrep
+* fd - alternative to find: https://github.com/sharkdp/fd
+* Neovide - GUI for neovim: https://github.com/neovide/neovide
+* Bat - a cat clone https://github.com/sharkdp/bat
+* Fastfetch: https://github.com/fastfetch-cli/fastfetch
+* Chocolatey - Package manager for Windows: https://chocolatey.org/
+* StarUML https://sourceforge.net/projects/staruml/
+* Dia Diagram Editor: https://sourceforge.net/projects/dia-installer/
+* Everything(search): https://www.voidtools.com/
+* Neovim: https://neovim.io/
+* Vim: https://www.vim.org/
+* Zim - Desktop Wiki: https://zim-wiki.org/index.html
+* MobaXterm: https://mobaxterm.mobatek.net/
+* ConEmu https://conemu.github.io/
+* cgdb - curses interface to GDB: http://cgdb.github.io/
 * https://ohmyz.sh/
-* https://www.gnu.org/software/ddd/
-* https://github.com/tmux/tmux
-* https://ranger.fm/
-* https://sourceforge.net/projects/vcxsrv/
-* https://getgreenshot.org/
-* https://github.com/junegunn/fzf
-* https://github.com/lsd-rs/lsd
-* https://tldr.sh/
-* https://github.com/cyrus-and/gdb-dashboard
+* GNU DDD: GUI for GDB & CUDA-GDB: https://www.gnu.org/software/ddd/
+* tmux - terminal multiplexer: https://github.com/tmux/tmux
+* range - console file manager with VI key bindings: https://ranger.fm/
+* VxXSrv Windows X Server: https://sourceforge.net/projects/vcxsrv/
+* Greenshot - make screenshots: https://getgreenshot.org/
+* fzf - commandline fuzzy finder: https://github.com/junegunn/fzf
+* lsd - next gen ls command: https://github.com/lsd-rs/lsd
+* tldr - man pages: https://tldr.sh/
+* gdb-dashboard - modular visual interface for GDB: https://github.com/cyrus-and/gdb-dashboard
 * 🌶 Valgrind: https://valgrind.org/
