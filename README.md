@@ -12,6 +12,7 @@
 * https://github.com/chubin/wttr.in
 * https://github.com/LewisJEllis/awesome-lua
 * https://vimawesome.com/
+* https://github.com/OpenGithubs/github-monthly-rank
 
 ### Library
 * https://github.com/nothings/stb
