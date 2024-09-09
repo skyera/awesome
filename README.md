@@ -24,29 +24,20 @@
 * list of C/C++ stuffs: https://github.com/fffaraz/awesome-cpp
 * Dear ImGui: https://github.com/ocornut/imgui
 
-
-
 ### Dearpygui
-https://github.com/RafaelCasamaximo/contExt
-
-https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase
-
-https://github.com/Magic-wei/DearBagPlayer
+* https://github.com/RafaelCasamaximo/contExt
+* https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase
+* https://github.com/Magic-wei/DearBagPlayer
 
 ### Vim
-https://github.com/gmr458/.dotfiles
-
-https://github.com/Vallen217/dotfiles
-
-https://github.com/bibjaw99/workstation
-
-https://www.naperwrimo.org/wiki/index.php?title=Vim_for_Writers
-
-https://quickref.me/vim
-
-https://github.com/chxuan/vimplus
-
-https://github.com/amix/vimrc
+* https://github.com/gmr458/.dotfiles
+* https://github.com/Vallen217/dotfiles
+* https://github.com/bibjaw99/workstation
+* https://www.naperwrimo.org/wiki/index.php?title=Vim_for_Writers
+* https://quickref.me/vim
+* https://github.com/chxuan/vimplus
+* https://github.com/amix/vimrc
+* https://vimtricks.com/
 
 ### Tools
 * Alacritty terminal emulator: https://alacritty.org/
