@@ -28,6 +28,7 @@
 * https://github.com/RafaelCasamaximo/contExt
 * https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase
 * https://github.com/Magic-wei/DearBagPlayer
+* https://github.com/my1e5/dpg-examples
 
 ### Vim
 * https://github.com/gmr458/.dotfiles
