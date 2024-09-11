@@ -69,3 +69,6 @@
 * tldr - man pages: https://tldr.sh/
 * gdb-dashboard - modular visual interface for GDB: https://github.com/cyrus-and/gdb-dashboard
 * 🌶 Valgrind: https://valgrind.org/
+
+### Lua
+* termtris: A Game like Tetris in Ten Functions: https://github.com/tylerneylon/termtris
