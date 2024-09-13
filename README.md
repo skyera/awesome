@@ -13,6 +13,7 @@
 * https://github.com/LewisJEllis/awesome-lua
 * https://vimawesome.com/
 * https://github.com/OpenGithubs/github-monthly-rank
+* 7 Linux commands to use just for fun: https://opensource.com/article/21/11/fun-linux-commands
 
 ### 🟧 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
