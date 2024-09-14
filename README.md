@@ -76,3 +76,4 @@
 
 ### Lua
 * termtris: A Game like Tetris in Ten Functions: https://github.com/tylerneylon/termtris
+* Simple, debugger for Lua: https://github.com/slembcke/debugger.lua?tab=readme-ov-file
