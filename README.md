@@ -52,6 +52,7 @@
 * Bat - a cat clone https://github.com/sharkdp/bat
 * Fastfetch: https://github.com/fastfetch-cli/fastfetch
 * Chocolatey - Package manager for Windows: https://chocolatey.org/
+* scoop A command-line installer for Windows: https://scoop.sh/
 * StarUML https://sourceforge.net/projects/staruml/
 * Dia Diagram Editor: https://sourceforge.net/projects/dia-installer/
 * Everything(search): https://www.voidtools.com/
