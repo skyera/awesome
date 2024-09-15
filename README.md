@@ -10,7 +10,6 @@
 * https://justine.lol/
 * https://godbolt.org/
 * https://github.com/chubin/wttr.in
-* https://github.com/LewisJEllis/awesome-lua
 * https://vimawesome.com/
 * https://github.com/OpenGithubs/github-monthly-rank
 * 7 Linux commands to use just for fun: https://opensource.com/article/21/11/fun-linux-commands
@@ -79,6 +78,7 @@
 * Tig: text-mode interface for Git: https://jonas.github.io/tig/
 
 ### Lua
+* A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
 * termtris: A Game like Tetris in Ten Functions: https://github.com/tylerneylon/termtris
 * Simple, debugger for Lua: https://github.com/slembcke/debugger.lua?tab=readme-ov-file
 * Lua Quick Start Guide: https://github.com/PacktPublishing/Lua-Quick-Start-Guide
