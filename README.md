@@ -88,3 +88,4 @@
 * https://github.com/daurnimator/lua-http
 * Feature-rich command line parser for Lua: https://github.com/mpeterv/argparse
 * A tool for linting and static analysis of Lua code: https://github.com/mpeterv/luacheck
+* https://martin-fieber.de/series/lua/
