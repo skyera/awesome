@@ -83,3 +83,7 @@
 * Simple, debugger for Lua: https://github.com/slembcke/debugger.lua?tab=readme-ov-file
 * Lua Quick Start Guide: https://github.com/PacktPublishing/Lua-Quick-Start-Guide
 * http://lua-users.org/
+* A lightweight JSON library for Lua: https://github.com/rxi/json.lua
+* Tiny class module for Lua: https://github.com/rxi/classic
+* https://github.com/daurnimator/lua-http
+* Feature-rich command line parser for Lua: https://github.com/mpeterv/argparse
