@@ -14,6 +14,7 @@
 * https://vimawesome.com/
 * https://github.com/OpenGithubs/github-monthly-rank
 * 7 Linux commands to use just for fun: https://opensource.com/article/21/11/fun-linux-commands
+* Rich: https://github.com/Textualize/rich
 
 ### 🟧 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
@@ -74,6 +75,8 @@
 * gdb-dashboard - modular visual interface for GDB: https://github.com/cyrus-and/gdb-dashboard
 * 🌶 Valgrind: https://valgrind.org/
 * Cheat.sh https://github.com/chubin/cheat.sh
+* simple terminal UI for git commands: https://github.com/jesseduffield/lazygit
+* Tig: text-mode interface for Git: https://jonas.github.io/tig/
 
 ### Lua
 * termtris: A Game like Tetris in Ten Functions: https://github.com/tylerneylon/termtris
