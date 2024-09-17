@@ -14,6 +14,7 @@
 * https://github.com/OpenGithubs/github-monthly-rank
 * 7 Linux commands to use just for fun: https://opensource.com/article/21/11/fun-linux-commands
 * Rich: https://github.com/Textualize/rich
+* best way to save what you love: https://github.com/imputnet/cobalt
 
 ### 🟧 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
@@ -91,3 +92,4 @@
 * https://martin-fieber.de/series/lua/
 * LuaJIT notes: https://luapower.com/luajit-notes.html
 * A curated list of amazingly awesome LÖVE libraries, resources and shiny things: https://github.com/love2d-community/awesome-love2d
+* Lua Cheatsheet: https://devhints.io/lua
