@@ -90,3 +90,4 @@
 * A tool for linting and static analysis of Lua code: https://github.com/mpeterv/luacheck
 * https://martin-fieber.de/series/lua/
 * LuaJIT notes: https://luapower.com/luajit-notes.html
+* A curated list of amazingly awesome LÖVE libraries, resources and shiny things: https://github.com/love2d-community/awesome-love2d
