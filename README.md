@@ -93,3 +93,4 @@
 * LuaJIT notes: https://luapower.com/luajit-notes.html
 * A curated list of amazingly awesome LÖVE libraries, resources and shiny things: https://github.com/love2d-community/awesome-love2d
 * Lua Cheatsheet: https://devhints.io/lua
+* A lightweight, dependency-free library for binding Lua to C++: https://github.com/vinniefalco/LuaBridge
