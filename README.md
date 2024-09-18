@@ -94,3 +94,4 @@
 * A curated list of amazingly awesome LÖVE libraries, resources and shiny things: https://github.com/love2d-community/awesome-love2d
 * Lua Cheatsheet: https://devhints.io/lua
 * A lightweight, dependency-free library for binding Lua to C++: https://github.com/vinniefalco/LuaBridge
+* Simple C++11 friendly header-only bindings to Lua: https://github.com/jeremyong/Selene
