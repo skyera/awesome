@@ -43,6 +43,7 @@
 * https://github.com/chxuan/vimplus
 * https://github.com/amix/vimrc
 * https://vimtricks.com/
+* https://github.com/bluz71/vim-moonfly-colors
 
 ### Tools
 * Alacritty terminal emulator: https://alacritty.org/
