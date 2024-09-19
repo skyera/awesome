@@ -97,3 +97,4 @@
 * Simple C++11 friendly header-only bindings to Lua: https://github.com/jeremyong/Selene
 * https://luajit.org/
 * LuaBridge usage samples with a short tutorial: https://github.com/shybovycha/lua-bridge-sample
+* A lightweight JSON library for Lua: https://github.com/rxi/json.lua
