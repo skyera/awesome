@@ -99,3 +99,4 @@
 * https://luajit.org/
 * LuaBridge usage samples with a short tutorial: https://github.com/shybovycha/lua-bridge-sample
 * A lightweight JSON library for Lua: https://github.com/rxi/json.lua
+* A guide to using Lua in Neovim: https://github.com/nanotee/nvim-lua-guide
