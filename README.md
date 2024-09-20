@@ -45,6 +45,7 @@
 * https://github.com/amix/vimrc
 * https://vimtricks.com/
 * https://github.com/bluz71/vim-moonfly-colors
+* https://dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391
 
 ### Tools
 * Alacritty terminal emulator: https://alacritty.org/
