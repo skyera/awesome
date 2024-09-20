@@ -99,6 +99,7 @@
 * A lightweight, dependency-free library for binding Lua to C++: https://github.com/vinniefalco/LuaBridge
 * Simple C++11 friendly header-only bindings to Lua: https://github.com/jeremyong/Selene
 * https://luajit.org/
+* Lua libraries for graphics and audio programming: https://github.com/stetre/moonlibs
 * LuaBridge usage samples with a short tutorial: https://github.com/shybovycha/lua-bridge-sample
 * A lightweight JSON library for Lua: https://github.com/rxi/json.lua
 * A guide to using Lua in Neovim: https://github.com/nanotee/nvim-lua-guide
