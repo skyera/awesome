@@ -17,7 +17,7 @@
 * best way to save what you love: https://github.com/imputnet/cobalt
 * Nerd fonts: https://www.nerdfonts.com/, https://github.com/ryanoasis/nerd-fonts
 
-### 🟧 Library
+### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
 * nanobench - run small microbenchmakrs: https://github.com/andreas-abel/nanoBench
 * FakeIt - C++ mocking: https://github.com/eranpeer/FakeIt
@@ -29,13 +29,13 @@
 * A Fast and Easy to use microframework for the web: https://github.com/CrowCpp/Crow
 * A C++ header-only HTTP/HTTPS server and client library: https://github.com/yhirose/cpp-httplib
 
-### Dearpygui
+### 📃 Dearpygui
 * https://github.com/RafaelCasamaximo/contExt
 * https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase
 * https://github.com/Magic-wei/DearBagPlayer
 * https://github.com/my1e5/dpg-examples
 
-### Vim
+### 📃 Vim
 * https://github.com/gmr458/.dotfiles
 * https://github.com/Vallen217/dotfiles
 * https://github.com/bibjaw99/workstation
@@ -47,7 +47,7 @@
 * https://github.com/bluz71/vim-moonfly-colors
 * https://dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391
 
-### Tools
+### 📃 Tools
 * Alacritty terminal emulator: https://alacritty.org/
 * Putty: https://www.chiark.greenend.org.uk/~sgtatham/putty/
 * ripgrep search tool: https://github.com/BurntSushi/ripgrep
@@ -81,7 +81,7 @@
 * simple terminal UI for git commands: https://github.com/jesseduffield/lazygit
 * Tig: text-mode interface for Git: https://jonas.github.io/tig/
 
-### Lua
+### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
 * termtris: A Game like Tetris in Ten Functions: https://github.com/tylerneylon/termtris
 * Simple, debugger for Lua: https://github.com/slembcke/debugger.lua?tab=readme-ov-file
@@ -104,3 +104,4 @@
 * A lightweight JSON library for Lua: https://github.com/rxi/json.lua
 * A guide to using Lua in Neovim: https://github.com/nanotee/nvim-lua-guide
 * Embedding Lua in C: https://lucasklassmann.com/blog/2019-02-02-embedding-lua-in-c/
+* Lua IDE: https://studio.zerobrane.com/
