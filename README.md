@@ -106,3 +106,4 @@
 * Embedding Lua in C: https://lucasklassmann.com/blog/2019-02-02-embedding-lua-in-c/
 * Lua IDE: https://studio.zerobrane.com/
 * LuaJIT ffi binding for imgui, backends and extension widgets: https://github.com/sonoro1234/LuaJIT-ImGui
+*  a C++ <-> Lua API wrapper : https://github.com/ThePhD/sol2
