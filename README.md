@@ -105,3 +105,4 @@
 * A guide to using Lua in Neovim: https://github.com/nanotee/nvim-lua-guide
 * Embedding Lua in C: https://lucasklassmann.com/blog/2019-02-02-embedding-lua-in-c/
 * Lua IDE: https://studio.zerobrane.com/
+* LuaJIT ffi binding for imgui, backends and extension widgets: https://github.com/sonoro1234/LuaJIT-ImGui
