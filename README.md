@@ -16,6 +16,7 @@
 * Rich: https://github.com/Textualize/rich
 * best way to save what you love: https://github.com/imputnet/cobalt
 * Nerd fonts: https://www.nerdfonts.com/, https://github.com/ryanoasis/nerd-fonts
+* Embedded Scripting Language Designed for C++: https://github.com/ChaiScript/ChaiScript
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
