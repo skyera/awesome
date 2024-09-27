@@ -17,6 +17,7 @@
 * best way to save what you love: https://github.com/imputnet/cobalt
 * Nerd fonts: https://www.nerdfonts.com/, https://github.com/ryanoasis/nerd-fonts
 * Embedded Scripting Language Designed for C++: https://github.com/ChaiScript/ChaiScript
+* A Cool bar for Dear ImGui (MacOs Dock Magnification Effect Like): https://github.com/aiekick/ImCoolBar
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
