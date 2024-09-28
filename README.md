@@ -30,6 +30,7 @@
 * Dear ImGui: https://github.com/ocornut/imgui
 * A Fast and Easy to use microframework for the web: https://github.com/CrowCpp/Crow
 * A C++ header-only HTTP/HTTPS server and client library: https://github.com/yhirose/cpp-httplib
+* Seamless operability between C++11 and Python: https://github.com/pybind/pybind11
 
 ### 📃 Dearpygui
 * https://github.com/RafaelCasamaximo/contExt
