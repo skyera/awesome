@@ -19,6 +19,7 @@
 * Embedded Scripting Language Designed for C++: https://github.com/ChaiScript/ChaiScript
 * A Cool bar for Dear ImGui (MacOs Dock Magnification Effect Like): https://github.com/aiekick/ImCoolBar
 * web version of imgui_demo with interactive browsing of sources: https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html
+* A collection of awesome dear imgui bindings, extensions and resources: https://github.com/TimoSalomaki/awesome-dear-imgui
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
