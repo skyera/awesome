@@ -87,6 +87,7 @@
 * simple terminal UI for git commands: https://github.com/jesseduffield/lazygit
 * Tig: text-mode interface for Git: https://jonas.github.io/tig/
 * SSHFS For Windows: https://github.com/winfsp/sshfs-win
+* https://github.com/mzjdy/MobaXterm-Keygen
 
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
