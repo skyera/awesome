@@ -23,6 +23,7 @@
 * Linux virtual machines, with a focus on running containers: https://github.com/lima-vm/lima
 * Open Source Continuous File Synchronization: https://github.com/syncthing/syncthing
 * Linux blog: https://www.tecmint.com/
+* Way to explore: https://www.v2ex.com/
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
