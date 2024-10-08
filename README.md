@@ -88,6 +88,7 @@
 * Tig: text-mode interface for Git: https://jonas.github.io/tig/
 * SSHFS For Windows: https://github.com/winfsp/sshfs-win
 * https://github.com/mzjdy/MobaXterm-Keygen
+* Web File Browser: https://github.com/filebrowser/filebrowser
 
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
