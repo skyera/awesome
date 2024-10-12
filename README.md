@@ -95,6 +95,7 @@
 * SSHFS For Windows: https://github.com/winfsp/sshfs-win
 * https://github.com/mzjdy/MobaXterm-Keygen
 * Web File Browser: https://github.com/filebrowser/filebrowser
+* Automatically restart SSH sessions and tunnels: https://github.com/Autossh/autossh
 
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
