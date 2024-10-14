@@ -99,6 +99,8 @@
 * https://github.com/mzjdy/MobaXterm-Keygen
 * Web File Browser: https://github.com/filebrowser/filebrowser
 * Automatically restart SSH sessions and tunnels: https://github.com/Autossh/autossh
+* Open Source differencing and merging tool for Windows: https://winmerge.org/
+* Meld  Visual diff and merge tool: https://meldmerge.org/
 
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
