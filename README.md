@@ -30,6 +30,7 @@
 * https://www.wireguard.com/
 * https://tailscale.com/
 * https://www.gl-inet.com/products/gl-sft1200/
+* audio player: https://www.foobar2000.org/
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
