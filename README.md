@@ -47,6 +47,7 @@
 * A C++ header-only HTTP/HTTPS server and client library: https://github.com/yhirose/cpp-httplib
 * Seamless operability between C++11 and Python: https://github.com/pybind/pybind11
 * Simple OpenGL core profile loading: https://github.com/skaslev/gl3w
+* ImTui: Immediate Mode Text-based User Interface C++ Library: https://github.com/ggerganov/imtui
 
 ### 📃 Dearpygui
 * https://github.com/RafaelCasamaximo/contExt
