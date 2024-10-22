@@ -105,6 +105,7 @@
 * Meld  Visual diff and merge tool: https://meldmerge.org/
 * Remote Access for Everybody: https://www.nomachine.com/
 * https://wiki.x2go.org/doku.php/download%3Astart
+* a file manager with curses interface: https://github.com/vifm/vifm
 
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
