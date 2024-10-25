@@ -57,7 +57,8 @@
 * https://github.com/my1e5/dpg-examples
 
 ### 📃 Dear ImGui
-https://github.com/rafaelanderka/lbm-imgui
+* An OpenGL + Dear ImGui port of my lattice Boltzmann fluid simulation tool: https://github.com/rafaelanderka/lbm-imgui
+* GDB frontend made with Dear ImGui: https://github.com/kyle-sylvestre/Tug
 
 ### 📃 Vim
 * https://github.com/gmr458/.dotfiles
