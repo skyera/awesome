@@ -34,6 +34,7 @@
 * instant coding answers via the command line: https://github.com/gleitz/howdoi
 * List of projects that provide terminal user interfaces: https://github.com/rothgar/awesome-tuis
 * The largest Awesome Curated list of CLI/TUI applications : https://github.com/toolleeo/cli-apps
+* A black hole for Internet advertisements: https://github.com/pi-hole/pi-hole
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
