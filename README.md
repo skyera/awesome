@@ -143,3 +143,6 @@
 * LuaJIT ffi binding for imgui, backends and extension widgets: https://github.com/sonoro1234/LuaJIT-ImGui
 * a C++ <-> Lua API wrapper : https://github.com/ThePhD/sol2
 * Lua + libUV + jIT = pure awesomesauce: https://github.com/luvit/luvit
+
+### 📃 Raspberry Pi
+* a WebUI for the Picamera2 Library for the Raspberry Pi: https://github.com/monkeymademe/picamera2-WebUI
