@@ -148,6 +148,7 @@
 * Lua + libUV + jIT = pure awesomesauce: https://github.com/luvit/luvit
 * https://makoserver.net/
 * Tao of Mac: https://taoofmac.com/space/dev/lua
+* A cross-platform terminal ui library based on Lua: https://github.com/tboox/ltui
 * Open source Windows programming framework for Lua: https://github.com/samyeyo/LuaRT
 * a cross-platform GUI for Lua scripts: https://glu1.sourceforge.io/
 
