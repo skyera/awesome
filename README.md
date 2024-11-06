@@ -52,6 +52,7 @@
 * Embedding py: https://pybind11.readthedocs.io/en/latest/advanced/embedding.html
 * Simple OpenGL core profile loading: https://github.com/skaslev/gl3w
 * ImTui: Immediate Mode Text-based User Interface C++ Library: https://github.com/ggerganov/imtui
+* A tiny immediate-mode UI library: https://github.com/rxi/microui
 
 ### 📃 Dearpygui
 * https://github.com/RafaelCasamaximo/contExt
