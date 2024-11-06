@@ -145,7 +145,9 @@
 * a C++ <-> Lua API wrapper : https://github.com/ThePhD/sol2
 * Lua + libUV + jIT = pure awesomesauce: https://github.com/luvit/luvit
 * https://makoserver.net/
-* https://taoofmac.com/space/dev/lua
+* Tao of Mac: https://taoofmac.com/space/dev/lua
+* Open source Windows programming framework for Lua: https://github.com/samyeyo/LuaRT
+* a cross-platform GUI for Lua scripts: https://glu1.sourceforge.io/
 
 ### 📃 Raspberry Pi
 * a WebUI for the Picamera2 Library for the Raspberry Pi: https://github.com/monkeymademe/picamera2-WebUI
