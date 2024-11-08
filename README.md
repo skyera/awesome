@@ -1,12 +1,12 @@
-### 🎈Awesome
+### 📝 Awesome
 
-* 📝 Cheatsheets: https://github.com/LeCoupa/awesome-cheatsheets
-* 📕 10 Tools to Generate and Have Fun With ASCII Art in Linux Terminal: https://itsfoss.com/ascii-art-linux-terminal/
-* 💡 Command line ASCII boxes: https://boxes.thomasjensen.com/
+* Cheatsheets: https://github.com/LeCoupa/awesome-cheatsheets
+* 10 Tools to Generate and Have Fun With ASCII Art in Linux Terminal: https://itsfoss.com/ascii-art-linux-terminal/
+* Command line ASCII boxes: https://boxes.thomasjensen.com/
 * https://serenityos.org/
 * https://morefine.com/
-* 🔋 Hacker News: https://news.ycombinator.com/
-* 🔶 Fabrice Bellar: https://bellard.org/
+* Hacker News: https://news.ycombinator.com/
+* Fabrice Bellar: https://bellard.org/
 * https://justine.lol/
 * https://godbolt.org/
 * https://github.com/chubin/wttr.in
