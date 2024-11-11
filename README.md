@@ -151,8 +151,13 @@
 * https://makoserver.net/
 * Tao of Mac: https://taoofmac.com/space/dev/lua
 * A cross-platform terminal ui library based on Lua: https://github.com/tboox/ltui
+
+  https://github.com/NVIDIA/cuda-samples
 * Open source Windows programming framework for Lua: https://github.com/samyeyo/LuaRT
 * a cross-platform GUI for Lua scripts: https://glu1.sourceforge.io/
 
 ### 📃 Raspberry Pi
 * a WebUI for the Picamera2 Library for the Raspberry Pi: https://github.com/monkeymademe/picamera2-WebUI
+  
+### 📃 Cuda
+* Samples for CUDA Developers which demonstrates features in CUDA Toolkit: https://github.com/NVIDIA/cuda-samples
