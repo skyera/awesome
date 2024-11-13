@@ -38,6 +38,7 @@
 * Android terminal emulator and Linux environment : https://termux.dev/en/
 * https://github.com/programthink/opensource
 * https://github.com/programthink/sites
+* https://www.jeffgeerling.com/blog
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
