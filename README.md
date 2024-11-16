@@ -39,6 +39,7 @@
 * https://github.com/programthink/opensource
 * https://github.com/programthink/sites
 * https://www.jeffgeerling.com/blog
+* A conda-forge distribution.: https://github.com/conda-forge/miniforge
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
