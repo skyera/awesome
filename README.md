@@ -103,7 +103,7 @@
 * GNU DDD: GUI for GDB & CUDA-GDB: https://www.gnu.org/software/ddd/
 * tmux - terminal multiplexer: https://github.com/tmux/tmux
 * range - console file manager with VI key bindings: https://ranger.fm/
-* VxXSrv Windows X Server: https://sourceforge.net/projects/vcxsrv/
+* VcXSrv Windows X Server: https://sourceforge.net/projects/vcxsrv/
 * Greenshot - make screenshots: https://getgreenshot.org/
 * fzf - commandline fuzzy finder: https://github.com/junegunn/fzf
 * lsd - next gen ls command: https://github.com/lsd-rs/lsd
