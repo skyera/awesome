@@ -42,6 +42,7 @@
 * A conda-forge distribution.: https://github.com/conda-forge/miniforge
 * nixCraft: https://www.cyberciti.biz/
 * Browse YouTube from your termina: https://github.com/Benexl/yt-x
+* https://github.com/kurong00/GameProgramBooks
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
