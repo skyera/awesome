@@ -44,6 +44,7 @@
 * Browse YouTube from your termina: https://github.com/Benexl/yt-x
 * https://github.com/kurong00/GameProgramBooks
 * https://salttiger.com/
+* https://tmuxcheatsheet.com/
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
