@@ -46,7 +46,7 @@
 * https://salttiger.com/
 * https://tmuxcheatsheet.com/
 * https://imagej.net/ij/
-* figlet, toilet
+* figlet, toilet, cal
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
