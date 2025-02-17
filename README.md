@@ -46,7 +46,6 @@
 * https://salttiger.com/
 * https://tmuxcheatsheet.com/
 * https://imagej.net/ij/
-* figlet, toilet, cal
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
@@ -129,7 +128,8 @@
 * Remote Access for Everybody: https://www.nomachine.com/
 * https://wiki.x2go.org/doku.php/download%3Astart
 * a file manager with curses interface: https://github.com/vifm/vifm
-
+* figlet, toilet, cal, neofetch
+  
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
 * termtris: A Game like Tetris in Ten Functions: https://github.com/tylerneylon/termtris
