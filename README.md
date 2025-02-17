@@ -130,6 +130,8 @@
 * https://wiki.x2go.org/doku.php/download%3Astart
 * a file manager with curses interface: https://github.com/vifm/vifm
 * https://github.com/5n00py/fss
+* Terminal graphics for the 21st century: https://github.com/hpjansson/chafa/
+* A fast image viewer for opening selected image files: https://feh.finalrewind.org/
 * figlet, toilet, cal, neofetch, cowsay
   
 ### 📃 Lua
