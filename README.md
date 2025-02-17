@@ -133,6 +133,7 @@
 * Terminal graphics for the 21st century: https://github.com/hpjansson/chafa/
 * A fast image viewer for opening selected image files: https://feh.finalrewind.org/
 * Converts jpg images to ASCII: https://github.com/cslarsen/jp2a
+* Share your terminal over the web: ttps://github.com/tsl0922/ttyd
 * figlet, toilet, cal, neofetch, cowsay
   
 ### 📃 Lua
