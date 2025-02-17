@@ -128,7 +128,7 @@
 * Remote Access for Everybody: https://www.nomachine.com/
 * https://wiki.x2go.org/doku.php/download%3Astart
 * a file manager with curses interface: https://github.com/vifm/vifm
-* figlet, toilet, cal, neofetch
+* figlet, toilet, cal, neofetch, cowsay
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
