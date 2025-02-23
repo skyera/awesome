@@ -47,6 +47,7 @@
 * https://tmuxcheatsheet.com/
 * https://imagej.net/ij/
 * Fast and simple video download library and CLI tool written in Go: https://github.com/iawia002/lux
+* Learn X in Y minutes: https://learnxinyminutes.com/
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
