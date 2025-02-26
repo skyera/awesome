@@ -136,6 +136,7 @@
 * A fast image viewer for opening selected image files: https://feh.finalrewind.org/
 * Converts jpg images to ASCII: https://github.com/cslarsen/jp2a
 * Share your terminal over the web: https://github.com/tsl0922/ttyd
+* GDBFrontend gui debugger:https://github.com/rohanrhu/gdb-frontend
 * figlet, toilet, cal, neofetch, cowsay
   
 ### 📃 Lua
