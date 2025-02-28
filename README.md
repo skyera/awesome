@@ -50,6 +50,7 @@
 * Learn X in Y minutes: https://learnxinyminutes.com/
 * Command line tools: https://news.ycombinator.com/item?id=18483460
 * Master the command line, in one page: https://github.com/jlevy/the-art-of-command-line
+* https://www.commandlinefu.com/commands/browse/sort-by-votes
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
