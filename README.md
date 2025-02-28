@@ -48,6 +48,7 @@
 * https://imagej.net/ij/
 * Fast and simple video download library and CLI tool written in Go: https://github.com/iawia002/lux
 * Learn X in Y minutes: https://learnxinyminutes.com/
+* Command line tools: https://news.ycombinator.com/item?id=18483460
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
