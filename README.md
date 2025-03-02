@@ -70,6 +70,7 @@
 * ImTui: Immediate Mode Text-based User Interface C++ Library: https://github.com/ggerganov/imtui
 * A tiny immediate-mode UI library: https://github.com/rxi/microui
 * Fast C++ logging library: https://github.com/gabime/spdlog
+* A simple C++11 Thread Pool implementation: https://github.com/progschj/ThreadPool
 
 ### 📃 Dearpygui
 * https://github.com/RafaelCasamaximo/contExt
