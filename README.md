@@ -52,6 +52,7 @@
 * Master the command line, in one page: https://github.com/jlevy/the-art-of-command-line
 * https://www.commandlinefu.com/commands/browse/sort-by-votes
 * https://github.com/alebcay/awesome-shell
+* poor man's profiler: https://poormansprofiler.org/
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
