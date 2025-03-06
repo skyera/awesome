@@ -53,6 +53,7 @@
 * https://www.commandlinefu.com/commands/browse/sort-by-votes
 * https://github.com/alebcay/awesome-shell
 * poor man's profiler: https://poormansprofiler.org/
+* Valgrind and GDB in close cooperation: https://www.redhat.com/en/blog/valgrind-and-gdb-close-cooperation
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
