@@ -146,6 +146,7 @@
 * Share your terminal over the web: https://github.com/tsl0922/ttyd
 * GDBFrontend gui debugger:https://github.com/rohanrhu/gdb-frontend
 * figlet, toilet, cal, neofetch, cowsay
+* NCurses Disk Usage: https://dev.yorhel.nl/ncdu
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
