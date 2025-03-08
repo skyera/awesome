@@ -148,6 +148,7 @@
 * figlet, toilet, cal, neofetch, cowsay
 * NCurses Disk Usage: https://dev.yorhel.nl/ncdu
 * Disk Usage/Free Utility - a better 'df' alternative: https://github.com/muesli/duf
+* Check the internet as fast as possible: https://github.com/Magic-JD/is-fast
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
