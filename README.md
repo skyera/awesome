@@ -147,6 +147,7 @@
 * GDBFrontend gui debugger:https://github.com/rohanrhu/gdb-frontend
 * figlet, toilet, cal, neofetch, cowsay
 * NCurses Disk Usage: https://dev.yorhel.nl/ncdu
+* Disk Usage/Free Utility - a better 'df' alternative: https://github.com/muesli/duf
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
