@@ -54,6 +54,7 @@
 * https://github.com/alebcay/awesome-shell
 * poor man's profiler: https://poormansprofiler.org/
 * Valgrind and GDB in close cooperation: https://www.redhat.com/en/blog/valgrind-and-gdb-close-cooperation
+* A webcomic of romance,sarcasm, math, and language.: https://xkcd.com/
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
