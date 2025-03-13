@@ -194,3 +194,4 @@
 
 ### Misc
 * https://github.com/hendrikmi/dotfiles
+* https://github.com/shapeshed/dotfiles
