@@ -151,6 +151,7 @@
 * Disk Usage/Free Utility - a better 'df' alternative: https://github.com/muesli/duf
 * Check the internet as fast as possible: https://github.com/Magic-JD/is-fast
 * The next gen ls command: https://github.com/lsd-rs/lsd
+* https://github.com/ImageMagick/ImageMagick
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
