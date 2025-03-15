@@ -120,7 +120,7 @@
 * https://ohmyz.sh/
 * GNU DDD: GUI for GDB & CUDA-GDB: https://www.gnu.org/software/ddd/
 * tmux - terminal multiplexer: https://github.com/tmux/tmux
-* range - console file manager with VI key bindings: https://ranger.fm/
+* ranger - console file manager with VI key bindings: https://ranger.fm/
 * VcXSrv Windows X Server: https://sourceforge.net/projects/vcxsrv/
 * Greenshot - make screenshots: https://getgreenshot.org/
 * fzf - commandline fuzzy finder: https://github.com/junegunn/fzf
@@ -150,7 +150,6 @@
 * NCurses Disk Usage: https://dev.yorhel.nl/ncdu
 * Disk Usage/Free Utility - a better 'df' alternative: https://github.com/muesli/duf
 * Check the internet as fast as possible: https://github.com/Magic-JD/is-fast
-* The next gen ls command: https://github.com/lsd-rs/lsd
 * https://github.com/ImageMagick/ImageMagick
   
 ### 📃 Lua
