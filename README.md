@@ -56,6 +56,7 @@
 * Valgrind and GDB in close cooperation: https://www.redhat.com/en/blog/valgrind-and-gdb-close-cooperation
 * A webcomic of romance,sarcasm, math, and language.: https://xkcd.com/
 * https://bellard.org/quickjs/
+* A tiny JavaScript runtime: https://github.com/saghul/txiki.js
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
