@@ -154,6 +154,7 @@
 * Check the internet as fast as possible: https://github.com/Magic-JD/is-fast
 * https://github.com/ImageMagick/ImageMagick
 * https://github.com/cmderdev/cmder
+* a static analysis infrastructure: https://codechecker.readthedocs.io/en/latest/
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
