@@ -57,6 +57,7 @@
 * A webcomic of romance,sarcasm, math, and language.: https://xkcd.com/
 * https://bellard.org/quickjs/
 * A tiny JavaScript runtime: https://github.com/saghul/txiki.js
+* A curated list of command line apps: https://github.com/agarrharr/awesome-cli-apps
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
