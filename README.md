@@ -158,6 +158,7 @@
 * https://github.com/cmderdev/cmder
 * a static analysis infrastructure: https://codechecker.readthedocs.io/en/latest/
 * A browser-based frontend to gdb: https://www.gdbgui.com/
+* Reversing Bits Cheatsheets: https://mohitmishra786.github.io/reversingBits/
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
