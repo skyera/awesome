@@ -162,6 +162,8 @@
   * https://mohitmishra786.github.io/reversingBits/
   * https://github.com/mohitmishra786/reversingBits
  * How to track file descriptors with Valgrind: https://developers.redhat.com/articles/2024/11/07/track-file-descriptors-valgrind
+ * About
+A cd command that learns - easily navigate directories from the command line: https://github.com/wting/autojump
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
