@@ -101,6 +101,7 @@
 * https://github.com/bluz71/vim-moonfly-colors
 * https://dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391
 * https://vimcolorschemes.com/i/trending
+* Learning Vim and Vimscript: https://github.com/iggredible/Learn-Vim
 
 ### 📃 Tools
 * Alacritty terminal emulator: https://alacritty.org/
