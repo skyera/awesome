@@ -103,6 +103,7 @@
 * https://dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391
 * https://vimcolorschemes.com/i/trending
 * Learning Vim and Vimscript: https://github.com/iggredible/Learn-Vim
+* https://learnvim.irian.to/
 
 ### 📃 Tools
 * Alacritty terminal emulator: https://alacritty.org/
