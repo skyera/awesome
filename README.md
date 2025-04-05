@@ -61,6 +61,7 @@
 * A list of new(ish) command line tools: https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/
 * https://linuxjourney.com/
 * https://beej.us/guide/
+* gdb ref card: https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
