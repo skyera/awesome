@@ -60,6 +60,7 @@
 * A curated list of command line apps: https://github.com/agarrharr/awesome-cli-apps
 * A list of new(ish) command line tools: https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/
 * https://linuxjourney.com/
+* https://beej.us/guide/
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
