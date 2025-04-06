@@ -108,6 +108,7 @@
 * https://vimcolorschemes.com/i/trending
 * Learning Vim and Vimscript: https://github.com/iggredible/Learn-Vim
 * https://learnvim.irian.to/
+* Vim cheatsheet: https://quickref.me/vim
 
 ### 📃 Tools
 * Alacritty terminal emulator: https://alacritty.org/
