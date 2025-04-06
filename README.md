@@ -173,6 +173,7 @@
  * A cd command that learns - easily navigate directories from the command line: https://github.com/wting/autojump
  * Taskwarrior - Command line Task Management: https://github.com/GothenburgBitFactory/taskwarrior
  * A GDB frontend for Linux: https://github.com/nakst/gf
+ * Find a needle in a haystack with git bisect: https://sundry.jerryorr.com/2024/11/15/git-bisect
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
