@@ -65,6 +65,7 @@
 * A categorized list of C++ resources: https://github.com/MattPD/cpplinks
 *  Programmer-friendly Linux Commands: https://techbeamers.com/essential-linux-commands-programmers/
 *  poor man's profiler: https://poormansprofiler.org/
+*  https://explainshell.com/
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
