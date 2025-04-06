@@ -62,6 +62,7 @@
 * https://linuxjourney.com/
 * https://beej.us/guide/
 * gdb ref card: https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
+* A categorized list of C++ resources: https://github.com/MattPD/cpplinks
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
