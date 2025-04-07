@@ -66,6 +66,7 @@
 *  Programmer-friendly Linux Commands: https://techbeamers.com/essential-linux-commands-programmers/
 *  poor man's profiler: https://poormansprofiler.org/
 *  https://explainshell.com/
+*  https://github.com/cheat/cheat
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
