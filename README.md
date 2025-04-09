@@ -67,6 +67,7 @@
 *  poor man's profiler: https://poormansprofiler.org/
 *  https://explainshell.com/
 *  https://github.com/cheat/cheat
+*  system monitor: https://github.com/nicolargo/glances
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
