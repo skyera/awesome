@@ -180,6 +180,7 @@
  * Find a needle in a haystack with git bisect: https://sundry.jerryorr.com/2024/11/15/git-bisect
  * 13 CLI Tools Every Developer Should Master in 2025: https://www.tecmint.com/linux-cli-tools-for-developers/
  * Tmux Plugin Manager: https://github.com/tmux-plugins/tpm
+ * A network filesystem client to connect to SSH servers: https://github.com/libfuse/sshfs
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
