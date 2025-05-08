@@ -225,3 +225,4 @@
 ### Misc
 * https://github.com/hendrikmi/dotfiles
 * https://github.com/shapeshed/dotfiles
+* https://www.hackitu.de/ranger_color_commands/
