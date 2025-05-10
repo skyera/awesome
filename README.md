@@ -68,6 +68,7 @@
 *  https://explainshell.com/
 *  https://github.com/cheat/cheat
 *  system monitor: https://github.com/nicolargo/glances
+*  https://obaranovskyi.com/environments/better-terminal-file-management-with-ranger
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
