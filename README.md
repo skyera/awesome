@@ -182,6 +182,7 @@
  * 13 CLI Tools Every Developer Should Master in 2025: https://www.tecmint.com/linux-cli-tools-for-developers/
  * Tmux Plugin Manager: https://github.com/tmux-plugins/tpm
  * A network filesystem client to connect to SSH servers: https://github.com/libfuse/sshfs
+ * Simple but powerful editor for Markdown and reStructuredText: https://github.com/retext-project/retext
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
