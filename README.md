@@ -234,3 +234,4 @@
 * https://github.com/gpakosz/.tmux
 * https://charlbotha.com/til/Minimal-setup-for-the-LF-console-file-manager-on-Windows
 * https://github.com/ahrm/dotfiles/tree/main/lf-windows
+* https://github.com/codingjerk/dotfiles
