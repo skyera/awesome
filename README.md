@@ -185,6 +185,7 @@
  * Simple but powerful editor for Markdown and reStructuredText: https://github.com/retext-project/retext
  * Terminal file manager: https://github.com/gokcehan/lf
  * A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB: https://github.com/veeso/termscp
+ * cat command for documents / images / videos and more!: https://github.com/Skardyy/mcat
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
