@@ -187,6 +187,7 @@
  * Terminal file manager: https://github.com/gokcehan/lf
  * A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB: https://github.com/veeso/termscp
  * cat command for documents / images / videos and more!: https://github.com/Skardyy/mcat
+ * 💥 Blazing fast terminal file manager written in Rust, based on async I/O.: https://github.com/sxyazi/yazi
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
