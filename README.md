@@ -73,6 +73,7 @@
 *  A gitmoji interactive cli tool for using emojis on commits. : https://github.com/carloscuesta/gitmoji-cli
 * A Terminal UI to browse Hacker News: https://github.com/aome510/hackernews-TUI
 * Linux/OSX/FreeBSD resource monitor: https://github.com/aristocratos/bashtop
+* Continuous File Synchronization: https://github.com/syncthing/syncthing
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
