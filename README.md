@@ -71,6 +71,7 @@
 *  https://obaranovskyi.com/environments/better-terminal-file-management-with-ranger
 *  https://mohitmishra786.github.io/chessman/2024/10/25/Advanced-Memory-Debugging-in-C-A-Deep-Dive-into-Valgrind-and-AddressSanitizer.html
 *  A gitmoji interactive cli tool for using emojis on commits. : https://github.com/carloscuesta/gitmoji-cli
+* A Terminal UI to browse Hacker News: https://github.com/aome510/hackernews-TUI
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
