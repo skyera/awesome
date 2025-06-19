@@ -93,6 +93,7 @@
 * A tiny immediate-mode UI library: https://github.com/rxi/microui
 * Fast C++ logging library: https://github.com/gabime/spdlog
 * A simple C++11 Thread Pool implementation: https://github.com/progschj/ThreadPool
+* Table Maker for Modern C++: https://github.com/p-ranav/tabulate
 
 ### 📃 Dearpygui
 * https://github.com/RafaelCasamaximo/contExt
