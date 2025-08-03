@@ -236,6 +236,9 @@
 ### 📃 Cuda
 * Samples for CUDA Developers which demonstrates features in CUDA Toolkit: https://github.com/NVIDIA/cuda-samples
 
+### Python
+https://numba.pydata.org/
+
 ### Misc
 * https://github.com/hendrikmi/dotfiles
 * https://github.com/shapeshed/dotfiles
