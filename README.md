@@ -237,7 +237,8 @@
 * Samples for CUDA Developers which demonstrates features in CUDA Toolkit: https://github.com/NVIDIA/cuda-samples
 
 ### Python
-https://numba.pydata.org/
+* https://numba.pydata.org/
+* Portable file server: https://github.com/9001/copyparty
 
 ### Misc
 * https://github.com/hendrikmi/dotfiles
