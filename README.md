@@ -240,6 +240,7 @@
 * https://numba.pydata.org/
 * Portable file server: https://github.com/9001/copyparty
 * https://github.com/pyscript/pyscript
+* A TUI interface for CLOC (Count Lines of Code): https://github.com/edward-jazzhands/cloctui
 
 ### Misc
 * https://github.com/hendrikmi/dotfiles
