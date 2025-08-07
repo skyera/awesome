@@ -239,6 +239,7 @@
 ### Python
 * https://numba.pydata.org/
 * Portable file server: https://github.com/9001/copyparty
+* https://github.com/pyscript/pyscript
 
 ### Misc
 * https://github.com/hendrikmi/dotfiles
