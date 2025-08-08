@@ -74,6 +74,7 @@
 * A Terminal UI to browse Hacker News: https://github.com/aome510/hackernews-TUI
 * Linux/OSX/FreeBSD resource monitor: https://github.com/aristocratos/bashtop
 * Continuous File Synchronization: https://github.com/syncthing/syncthing
+* https://github.com/ccbikai/ssh-ai-chat
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
