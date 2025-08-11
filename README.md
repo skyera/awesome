@@ -75,6 +75,7 @@
 * Linux/OSX/FreeBSD resource monitor: https://github.com/aristocratos/bashtop
 * Continuous File Synchronization: https://github.com/syncthing/syncthing
 * https://github.com/ccbikai/ssh-ai-chat
+* Take handwritten notes with ease: https://xournalpp.github.io/
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
