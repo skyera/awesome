@@ -76,6 +76,7 @@
 * Continuous File Synchronization: https://github.com/syncthing/syncthing
 * https://github.com/ccbikai/ssh-ai-chat
 * Take handwritten notes with ease: https://xournalpp.github.io/
+* C Traps and Pitfalls: https://altair.pw/pub/doc/unix/C%20Traps%20and%20Pitfalls.pdf
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
