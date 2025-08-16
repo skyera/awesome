@@ -197,6 +197,7 @@
  * cat command for documents / images / videos and more!: https://github.com/Skardyy/mcat
  * 💥 Blazing fast terminal file manager written in Rust, based on async I/O.: https://github.com/sxyazi/yazi
  * A new way to see and navigate directory trees:https://github.com/Canop/broot
+ * ❤️Build your personal knowledge base with Trilium Notes: https://github.com/TriliumNext/Trilium
 
   
 ### 📃 Lua
