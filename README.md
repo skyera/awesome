@@ -79,6 +79,8 @@
 * C Traps and Pitfalls: https://altair.pw/pub/doc/unix/C%20Traps%20and%20Pitfalls.pdf
 * https://github.com/oz123/awesome-c
 * https://cppinsights.io/
+* The professional Free Pascal RAD IDE: https://www.lazarus-ide.org/
+* https://rclone.org/
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
