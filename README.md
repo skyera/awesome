@@ -251,6 +251,7 @@
 * https://github.com/pyscript/pyscript
 * A TUI interface for CLOC (Count Lines of Code): https://github.com/edward-jazzhands/cloctui
 * https://github.com/yt-dlp/yt-dlp
+* A modern and customizable python UI-library based on Tkinter: https://github.com/tomschimansky/customtkinter
 
 ### Misc
 * https://github.com/hendrikmi/dotfiles
