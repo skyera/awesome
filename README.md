@@ -256,6 +256,7 @@
 * A modern and customizable python UI-library based on Tkinter: https://github.com/tomschimansky/customtkinter
 * Creates standalone executables from Python scripts: https://github.com/marcelotduarte/cx_Freeze
 * https://github.com/Nuitka/Nuitka
+* An extremely fast Python package and project manager: https://github.com/astral-sh/uv
 
 ### Misc
 * https://github.com/hendrikmi/dotfiles
