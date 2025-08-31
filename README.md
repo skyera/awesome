@@ -204,6 +204,7 @@
  * A new way to see and navigate directory trees:https://github.com/Canop/broot
  * ❤️Build your personal knowledge base with Trilium Notes: https://github.com/TriliumNext/Trilium
  * A modern alternative to ls: https://github.com/eza-community/eza
+ * AddressSanitizer, ThreadSanitizer, MemorySanitizer: https://github.com/google/sanitizers
 
   
 ### 📃 Lua
