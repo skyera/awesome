@@ -257,6 +257,7 @@
 * Creates standalone executables from Python scripts: https://github.com/marcelotduarte/cx_Freeze
 * https://github.com/Nuitka/Nuitka
 * An extremely fast Python package and project manager: https://github.com/astral-sh/uv
+* An extremely fast Python linter and code formatter: https://github.com/astral-sh/ruff
 
 ### Misc
 * https://github.com/hendrikmi/dotfiles
