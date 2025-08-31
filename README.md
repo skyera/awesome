@@ -101,6 +101,7 @@
 * Fast C++ logging library: https://github.com/gabime/spdlog
 * A simple C++11 Thread Pool implementation: https://github.com/progschj/ThreadPool
 * Table Maker for Modern C++: https://github.com/p-ranav/tabulate
+* C++ Benchmark Authoring Library/Framework: https://github.com/DigitalInBlue/Celero
 
 ### 📃 Dearpygui
 * https://github.com/RafaelCasamaximo/contExt
