@@ -205,6 +205,7 @@
  * ❤️Build your personal knowledge base with Trilium Notes: https://github.com/TriliumNext/Trilium
  * A modern alternative to ls: https://github.com/eza-community/eza
  * AddressSanitizer, ThreadSanitizer, MemorySanitizer: https://github.com/google/sanitizers
+ * cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.: https://github.com/kingToolbox/WindTerm
 
   
 ### 📃 Lua
