@@ -206,6 +206,7 @@
  * A modern alternative to ls: https://github.com/eza-community/eza
  * AddressSanitizer, ThreadSanitizer, MemorySanitizer: https://github.com/google/sanitizers
  * cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.: https://github.com/kingToolbox/WindTerm
+ * A terminal workspace with batteries included: https://github.com/zellij-org/zellij
 
   
 ### 📃 Lua
