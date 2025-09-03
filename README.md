@@ -268,5 +268,6 @@
 * https://github.com/gpakosz/.tmux
 * https://charlbotha.com/til/Minimal-setup-for-the-LF-console-file-manager-on-Windows
 * https://github.com/ahrm/dotfiles/tree/main/lf-windows
+* https://micahkepe.com/blog/tmux-config/
 * https://github.com/codingjerk/dotfiles
 * https://github.com/r4ppz19/Arch-dotfiles
