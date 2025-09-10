@@ -270,5 +270,6 @@
 * https://github.com/ahrm/dotfiles/tree/main/lf-windows
 * https://micahkepe.com/blog/tmux-config/
 * https://github.com/micahkepe/dotfiles/blob/main/tmux/.tmux.conf
+* https://github.com/typecraft-dev/dotfiles
 * https://github.com/codingjerk/dotfiles
 * https://github.com/r4ppz19/Arch-dotfiles
