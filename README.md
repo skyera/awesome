@@ -81,6 +81,7 @@
 * https://cppinsights.io/
 * The professional Free Pascal RAD IDE: https://www.lazarus-ide.org/
 * https://rclone.org/
+* minimal cross-platform standalone C headers: https://github.com/floooh/sokol
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
