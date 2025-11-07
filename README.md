@@ -277,3 +277,4 @@
 * https://github.com/r4ppz19/Arch-dotfiles
 * How to write Buffer Overflows: https://insecure.org/stf/mudge_buffer_overflow_tutorial.html
 * How to Obsessively Tune WezTerm: https://rashil2000.me/blogs/tune-wezterm
+* https://github.com/theopn/dotfiles
