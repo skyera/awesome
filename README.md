@@ -280,3 +280,4 @@
 * https://github.com/theopn/dotfiles
 * https://mwop.net/blog/2024-07-04-how-i-use-wezterm.html
 * http://tmuxai.dev
+* https://github.com/linkarzu/dotfiles-latest
