@@ -281,3 +281,4 @@
 * https://mwop.net/blog/2024-07-04-how-i-use-wezterm.html
 * http://tmuxai.dev
 * https://github.com/linkarzu/dotfiles-latest
+* https://github.com/rothgar/awesome-tmux
