@@ -208,6 +208,7 @@
  * AddressSanitizer, ThreadSanitizer, MemorySanitizer: https://github.com/google/sanitizers
  * cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.: https://github.com/kingToolbox/WindTerm
  * A terminal workspace with batteries included: https://github.com/zellij-org/zellij
+ * A smarter cd command.: https://github.com/ajeetdsouza/zoxide
 
   
 ### 📃 Lua
