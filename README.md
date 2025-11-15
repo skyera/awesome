@@ -285,3 +285,4 @@
 * https://github.com/linkarzu/dotfiles-latest
 * https://github.com/rothgar/awesome-tmux
 * https://github.com/michaelbrusegard/awesome-wezterm
+* https://github.com/fl0wstate/dotfiles
