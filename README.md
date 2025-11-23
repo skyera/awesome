@@ -210,6 +210,7 @@
  * A terminal workspace with batteries included: https://github.com/zellij-org/zellij
  * A smarter cd command.: https://github.com/ajeetdsouza/zoxide
  * A terminal image and video viewer.: https://github.com/hzeller/timg
+ * A utility tool powered by fzf for using git interactively. https://github.com/wfxr/forgit
 
   
 ### 📃 Lua
