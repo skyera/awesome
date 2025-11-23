@@ -289,3 +289,4 @@
 * https://github.com/fl0wstate/dotfiles
 * Setting Up a Better tmux Configuration: https://micahkepe.com/blog/tmux-config/
 * https://github.com/omerxx/dotfiles
+* https://github.com/Sin-cy/dotfiles
