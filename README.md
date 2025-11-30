@@ -291,4 +291,3 @@
 * Setting Up a Better tmux Configuration: https://micahkepe.com/blog/tmux-config/
 * https://github.com/omerxx/dotfiles
 * https://github.com/Sin-cy/dotfiles
-* Setting Up a Better tmux Configuration: https://micahkepe.com/blog/tmux-config/
