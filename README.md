@@ -83,6 +83,7 @@
 * https://rclone.org/
 * minimal cross-platform standalone C headers: https://github.com/floooh/sokol
 * https://www.josean.com/posts/7-amazing-cli-tools
+* Bash One-Liners: https://github.com/onceupon/Bash-Oneliner
 
 ### 📃 Library
 * doctest - fastest, single header testing framework: https://github.com/doctest/doctest
