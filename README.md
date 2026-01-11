@@ -213,7 +213,7 @@
  * A smarter cd command.: https://github.com/ajeetdsouza/zoxide
  * A terminal image and video viewer.: https://github.com/hzeller/timg
  * A utility tool powered by fzf for using git interactively. https://github.com/wfxr/forgit
-
+ * https://github.com/yorukot/superfile
   
 ### 📃 Lua
 * A curated list of quality Lua packages and resources: https://github.com/LewisJEllis/awesome-lua
