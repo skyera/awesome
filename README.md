@@ -294,3 +294,4 @@
 * https://github.com/omerxx/dotfiles
 * https://github.com/Sin-cy/dotfiles
 * https://github.com/josean-dev/dev-environment-files
+* My Journey from Zellij to TMux: https://marceloborges.dev/posts/4/
