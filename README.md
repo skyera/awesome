@@ -242,6 +242,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [beej.us/guide](https://beej.us/guide/)
 * [bellard.org/quickjs](https://bellard.org/quickjs/)
 * [best way to save what you love](https://github.com/imputnet/cobalt)
+* [Better Motherfucking Website](http://bettermotherfuckingwebsite.com/) - A direct critique and improvement on the text-only web philosophy showing what exactly 7 lines of CSS can do.
 * [C Traps and Pitfalls](https://altair.pw/pub/doc/unix/C%20Traps%20and%20Pitfalls.pdf)
 * [cheat](https://github.com/cheat/cheat)
 * [Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
