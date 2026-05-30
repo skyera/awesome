@@ -65,6 +65,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.](https://github.com/kingToolbox/WindTerm)
 * [Expose local servers to the internet](https://serveo.net/)
 * [Linux virtual machines, with a focus on running containers](https://github.com/lima-vm/lima)
+* [Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one.
 * [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
 * [rclone.org](https://rclone.org/)
 * [Remote Access for Everybody](https://www.nomachine.com/)
