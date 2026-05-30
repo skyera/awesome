@@ -268,6 +268,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 * [mohitmishra786.github.io/reversingBits](https://mohitmishra786.github.io/reversingBits/)
 * [morefine.com](https://morefine.com/)
+* [Motherfucking Website](https://motherfuckingwebsite.com/) - The original, legendary text-only web design manifesto.
 * [Nerd fonts](https://www.nerdfonts.com/,) - https://github.com/ryanoasis/nerd-fonts
 * [nixCraft](https://www.cyberciti.biz/)
 * [opensource](https://github.com/programthink/opensource)
