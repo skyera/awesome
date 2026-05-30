@@ -259,7 +259,10 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [godbolt.org](https://godbolt.org/)
 * [Hacker News](https://news.ycombinator.com/)
 * [How to write Buffer Overflows](https://insecure.org/stf/mudge_buffer_overflow_tutorial.html)
+* [Just Fucking Use...](https://justfuckinguse.com/) - The central, no-nonsense hub that aggregates all "Just Fucking Use" opinionated tech rants and manifestos.
+* [Just Fucking Use Cron](https://justfuckingusecron.com/) - A direct, hilarious reminder to stop building complex distributed schedulers for tasks that just need a simple cron job.
 * [Just Fucking Use HTML](https://justfuckingusehtml.com/) - A humorous, plain-speaking advocacy for using simple HTML over complex JavaScript frameworks.
+* [Just Fucking Use Plaintext](https://justfuckinguseplaintext.com/) - A direct, humorous manifesto advocating for plaintext formats over complex, proprietary UIs, note-taking apps, and binary configurations.
 * [Just Fucking Use Tmux](https://justfuckingusetmux.com/) - A hilarious and direct reminder to always run tmux to avoid losing terminal sessions.
 * [justine.lol](https://justine.lol/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
