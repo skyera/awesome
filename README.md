@@ -153,6 +153,8 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [tmuxai.dev](http://tmuxai.dev)
 * [tmuxcheatsheet.com](https://tmuxcheatsheet.com/)
+* [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
+* [tmuxp](https://github.com/tmux-python/tmuxp) - tmux session manager built on top of libtmux.
 * [Vim](https://www.vim.org/)
 * [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors)
 * [vimawesome.com](https://vimawesome.com/)
