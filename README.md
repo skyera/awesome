@@ -65,6 +65,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.](https://github.com/kingToolbox/WindTerm)
 * [Expose local servers to the internet](https://serveo.net/)
 * [Linux virtual machines, with a focus on running containers](https://github.com/lima-vm/lima)
+* [localhost.run](https://localhost.run/) - Expose local servers to the internet using SSH
 * [Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one.
 * [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
 * [rclone.org](https://rclone.org/)
@@ -101,6 +102,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick)
 * [LuaJIT ffi binding for imgui, backends and extension widgets](https://github.com/sonoro1234/LuaJIT-ImGui)
 * [Meld  Visual diff and merge tool](https://meldmerge.org/)
+* [mpv-cut](https://github.com/familyfriendlymikey/mpv-cut) - Keyframe-sensitive lossless video cutter plugin for mpv.
 * [Open Source differencing and merging tool for Windows](https://winmerge.org/)
 * [StarUML](https://sourceforge.net/projects/staruml/)
 * [Take handwritten notes with ease](https://xournalpp.github.io/)
