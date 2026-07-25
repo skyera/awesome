@@ -88,6 +88,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [a WebUI for the Picamera2 Library for the Raspberry Pi](https://github.com/monkeymademe/picamera2-WebUI)
 * [An OpenGL + Dear ImGui port of my lattice Boltzmann fluid simulation tool](https://github.com/rafaelanderka/lbm-imgui)
 * [audio player](https://www.foobar2000.org/)
+* [awesome-mpv](https://github.com/stax76/awesome-mpv)
 * [contExt](https://github.com/RafaelCasamaximo/contExt)
 * [Converts jpg images to ASCII](https://github.com/cslarsen/jp2a)
 * [Dear ImGui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies.
