@@ -108,6 +108,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [StarUML](https://sourceforge.net/projects/staruml/)
 * [Take handwritten notes with ease](https://xournalpp.github.io/)
 * [Terminal graphics for the 21st century](https://github.com/hpjansson/chafa/)
+* [uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV media player.
 * [VcXSrv Windows X Server](https://sourceforge.net/projects/vcxsrv/)
 * [web version of imgui_demo with interactive browsing of sources](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html)
 
