@@ -141,6 +141,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [dotfiles](https://github.com/Sin-cy/dotfiles)
 * [dotfiles-latest](https://github.com/linkarzu/dotfiles-latest)
 * [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
+* [iTerm2 Color Schemes](https://github.com/mbadolato/iterm2-color-schemes)
 * [Learning Vim and Vimscript](https://github.com/iggredible/Learn-Vim)
 * [learnvim.irian.to](https://learnvim.irian.to/)
 * [micahkepe.com/blog/tmux-config](https://micahkepe.com/blog/tmux-config/)
@@ -152,6 +153,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Neovim](https://neovim.io/)
 * [ohmyz.sh](https://ohmyz.sh/)
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+* [PuTTY color themes](https://github.com/AlexAkulov/putty-color-themes)
 * [quickref.me/vim](https://quickref.me/vim)
 * [tmux](https://github.com/tmux/tmux) - terminal multiplexer
 * [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
