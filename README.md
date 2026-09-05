@@ -22,6 +22,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [cat command for documents / images / videos and more!](https://github.com/Skardyy/mcat)
 * [cgdb](http://cgdb.github.io/) - curses interface to GDB
 * [charlbotha.com/til/Minimal-setup-for-the-LF-console-file-manager-on-Windows](https://charlbotha.com/til/Minimal-setup-for-the-LF-console-file-manager-on-Windows)
+* [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 * [Cheat.sh](https://github.com/chubin/cheat.sh)
 * [Check the internet as fast as possible](https://github.com/Magic-JD/is-fast)
 * [Chocolatey](https://chocolatey.org/) - Package manager for Windows
