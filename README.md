@@ -18,7 +18,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [awesome-bash](https://github.com/awesome-lists/awesome-bash)
 * [Bash One-Liners](https://github.com/onceupon/Bash-Oneliner)
 * [Bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting and Git integration.
-* [Browse YouTube from your termina](https://github.com/Benexl/yt-x)
+* [Browse YouTube from your terminal](https://github.com/Benexl/yt-x)
 * [cat command for documents / images / videos and more!](https://github.com/Skardyy/mcat)
 * [cgdb](http://cgdb.github.io/) - curses interface to GDB
 * [charlbotha.com/til/Minimal-setup-for-the-LF-console-file-manager-on-Windows](https://charlbotha.com/til/Minimal-setup-for-the-LF-console-file-manager-on-Windows)
@@ -58,7 +58,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [www.hackitu.de/ranger_color_commands](https://www.hackitu.de/ranger_color_commands/)
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [🌶 Valgrind](https://valgrind.org/)
-* [💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
+* [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### 🌐 Network & Remote Access
 * [A network filesystem client to connect to SSH servers](https://github.com/libfuse/sshfs)
@@ -104,7 +104,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [imagej.net/ij](https://imagej.net/ij/)
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick)
 * [LuaJIT ffi binding for imgui, backends and extension widgets](https://github.com/sonoro1234/LuaJIT-ImGui)
-* [Meld  Visual diff and merge tool](https://meldmerge.org/)
+* [Meld](https://meldmerge.org/) - Visual diff and merge tool
 * [mpv-cut](https://github.com/familyfriendlymikey/mpv-cut) - Keyframe-sensitive lossless video cutter plugin for mpv.
 * [Open Source differencing and merging tool for Windows](https://winmerge.org/)
 * [StarUML](https://sourceforge.net/projects/staruml/)
@@ -203,7 +203,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Feature-rich command line parser for Lua](https://github.com/mpeterv/argparse)
 * [Font-based icons for Tkinter/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap-icons)
 * [GNU DDD](https://www.gnu.org/software/ddd/) - GUI for GDB & CUDA-GDB
-* [header-only C++ libraies](https://github.com/p-ranav/awesome-hpp)
+* [header-only C++ libraries](https://github.com/p-ranav/awesome-hpp)
 * [ImTui](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface C++ Library
 * [JSON](https://github.com/nlohmann/json) - JSON for Modern C++ - single header library.
 * [list of C/C++ stuffs](https://github.com/fffaraz/awesome-cpp)
@@ -220,7 +220,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [martin-fieber.de/series/lua](https://martin-fieber.de/series/lua/)
 * [minimal cross-platform standalone C headers](https://github.com/floooh/sokol)
 * [mohitmishra786.github.io/chessman/2024/10/25/Advanced-Memory-Debugging-in-C-A-Deep-Dive-into-Valgrind-and-AddressSanitizer.html](https://mohitmishra786.github.io/chessman/2024/10/25/Advanced-Memory-Debugging-in-C-A-Deep-Dive-into-Valgrind-and-AddressSanitizer.html)
-* [nanobench](https://github.com/andreas-abel/nanoBench) - run small microbenchmakrs
+* [nanobench](https://github.com/andreas-abel/nanoBench) - run small microbenchmarks
 * [Nuitka](https://github.com/Nuitka/Nuitka)
 * [numba.pydata.org](https://numba.pydata.org/)
 * [Open source Windows programming framework for Lua](https://github.com/samyeyo/LuaRT)
@@ -259,7 +259,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * [Command line tools](https://news.ycombinator.com/item?id=18483460)
 * [explainshell.com](https://explainshell.com/)
-* [Fabrice Bellar](https://bellard.org/)
+* [Fabrice Bellard](https://bellard.org/)
 * [Find a needle in a haystack with git bisect](https://sundry.jerryorr.com/2024/11/15/git-bisect)
 * [flakm.com](https://flakm.com/)
 * [fss](https://github.com/5n00py/fss)
@@ -284,7 +284,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [mohitmishra786.github.io/reversingBits](https://mohitmishra786.github.io/reversingBits/)
 * [morefine.com](https://morefine.com/)
 * [Motherfucking Website](https://motherfuckingwebsite.com/) - The original, legendary text-only web design manifesto.
-* [Nerd fonts](https://www.nerdfonts.com/,) - https://github.com/ryanoasis/nerd-fonts
+* [Nerd Fonts](https://www.nerdfonts.com/) - Iconic font aggregator, collection, and patcher.
 * [nixCraft](https://www.cyberciti.biz/)
 * [opensource](https://github.com/programthink/opensource)
 * [poor man's profiler](https://poormansprofiler.org/)
