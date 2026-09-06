@@ -191,6 +191,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [AddressSanitizer, ThreadSanitizer, MemorySanitizer](https://github.com/google/sanitizers)
 * [An extremely fast Python linter and code formatter](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter written in Rust.
 * [An extremely fast Python package and project manager](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager written in Rust.
+* [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 * [C++ Benchmark Authoring Library/Framework](https://github.com/DigitalInBlue/Celero)
 * [cppinsights.io](https://cppinsights.io/)
 * [Creates standalone executables from Python scripts](https://github.com/marcelotduarte/cx_Freeze)
