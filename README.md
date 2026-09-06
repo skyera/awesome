@@ -36,6 +36,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [How to track file descriptors with Valgrind](https://developers.redhat.com/articles/2024/11/07/track-file-descriptors-valgrind)
 * [instant coding answers via the command line](https://github.com/gleitz/howdoi)
 * [Linux/OSX/FreeBSD resource monitor](https://github.com/aristocratos/bashtop)
+* [linux-android](https://github.com/mayukh4/linux-android) - Turn an old Android phone into a GPU-accelerated Linux desktop or Home Assistant server using Termux.
 * [List of projects that provide terminal user interfaces](https://github.com/rothgar/awesome-tuis)
 * [lsd](https://github.com/lsd-rs/lsd) - next gen ls command
 * [NCurses Disk Usage](https://dev.yorhel.nl/ncdu)
