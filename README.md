@@ -59,6 +59,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [www.hackitu.de/ranger_color_commands](https://www.hackitu.de/ranger_color_commands/)
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [🌶 Valgrind](https://valgrind.org/)
+* [w3m](https://github.com/tats/w3m) - Text-based web browser and pager for the terminal.
 * [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### 🌐 Network & Remote Access
