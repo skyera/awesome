@@ -289,6 +289,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [opensource](https://github.com/programthink/opensource)
 * [poor man's profiler](https://poormansprofiler.org/)
 * [Programmer-friendly Linux Commands](https://techbeamers.com/essential-linux-commands-programmers/)
+* [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 * [reversingBits](https://github.com/mohitmishra786/reversingBits)
 * [Rich](https://github.com/Textualize/rich)
 * [serenityos.org](https://serenityos.org/)
