@@ -243,6 +243,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 
 ### 📚 Learning, Guides & Misc
 * [13 CLI Tools Every Developer Should Master in 2025](https://www.tecmint.com/linux-cli-tools-for-developers/)
+* [512KB Club](https://512kb.club/) - A showcase of lightweight websites weighing less than 512 kilobytes.
 * [7 Linux commands to use just for fun](https://opensource.com/article/21/11/fun-linux-commands)
 * [A browser-based frontend to gdb](https://www.gdbgui.com/)
 * [A conda-forge distribution.](https://github.com/conda-forge/miniforge)
