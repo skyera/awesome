@@ -53,6 +53,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [The largest Awesome Curated list of CLI/TUI applications](https://github.com/toolleeo/cli-apps)
 * [Tig](https://jonas.github.io/tig/) - text-mode interface for Git
 * [tldr](https://tldr.sh/) - man pages
+* [usgc-machine-report](https://github.com/usgraphics/usgc-machine-report) - TR-100 Machine Report (minimal system information bash script)
 * [Valgrind and GDB in close cooperation](https://www.redhat.com/en/blog/valgrind-and-gdb-close-cooperation)
 * [www.hackitu.de/ranger_color_commands](https://www.hackitu.de/ranger_color_commands/)
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
