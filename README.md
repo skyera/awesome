@@ -238,6 +238,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Table Maker for Modern C++](https://github.com/p-ranav/tabulate)
 * [Tao of Mac](https://taoofmac.com/space/dev/lua)
 * [termtris](https://github.com/tylerneylon/termtris) - A Game like Tetris in Ten Functions
+* [Terra](https://terralang.org/) - A low-level system programming language embedded in and meta-programmed by Lua.
 * [The professional Free Pascal RAD IDE](https://www.lazarus-ide.org/)
 * [Tiny class module for Lua](https://github.com/rxi/classic)
 * [tylerneylon.com/a/learn-lua](https://tylerneylon.com/a/learn-lua/)
