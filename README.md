@@ -1,6 +1,7 @@
 ### 📝 Awesome
 A curated list of awesome software, tools, libraries, configurations, and learning resources.
 
+
 ### 🛠️ CLI & Terminal Tools
 * [10 Tools to Generate and Have Fun With ASCII Art in Linux Terminal](https://itsfoss.com/ascii-art-linux-terminal/)
 * [A black hole for Internet advertisements](https://github.com/pi-hole/pi-hole)
@@ -22,11 +23,11 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [cat command for documents / images / videos and more!](https://github.com/Skardyy/mcat)
 * [cgdb](http://cgdb.github.io/) - curses interface to GDB
 * [charlbotha.com/til/Minimal-setup-for-the-LF-console-file-manager-on-Windows](https://charlbotha.com/til/Minimal-setup-for-the-LF-console-file-manager-on-Windows)
-* [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 * [Cheat.sh](https://github.com/chubin/cheat.sh)
 * [Check the internet as fast as possible](https://github.com/Magic-JD/is-fast)
 * [Chocolatey](https://chocolatey.org/) - Package manager for Windows
 * [Command line ASCII boxes](https://boxes.thomasjensen.com/)
+* [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 * [Disk Usage/Free Utility](https://github.com/muesli/duf) - a better 'df' alternative
 * [Everything(search)](https://www.voidtools.com/)
 * [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
@@ -35,8 +36,8 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - modular visual interface for GDB
 * [How to track file descriptors with Valgrind](https://developers.redhat.com/articles/2024/11/07/track-file-descriptors-valgrind)
 * [instant coding answers via the command line](https://github.com/gleitz/howdoi)
-* [Linux/OSX/FreeBSD resource monitor](https://github.com/aristocratos/bashtop)
 * [linux-android](https://github.com/mayukh4/linux-android) - Turn an old Android phone into a GPU-accelerated Linux desktop or Home Assistant server using Termux.
+* [Linux/OSX/FreeBSD resource monitor](https://github.com/aristocratos/bashtop)
 * [List of projects that provide terminal user interfaces](https://github.com/rothgar/awesome-tuis)
 * [lsd](https://github.com/lsd-rs/lsd) - next gen ls command
 * [NCurses Disk Usage](https://dev.yorhel.nl/ncdu)
@@ -56,11 +57,11 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [tldr](https://tldr.sh/) - man pages
 * [usgc-machine-report](https://github.com/usgraphics/usgc-machine-report) - TR-100 Machine Report (minimal system information bash script)
 * [Valgrind and GDB in close cooperation](https://www.redhat.com/en/blog/valgrind-and-gdb-close-cooperation)
+* [w3m](https://github.com/tats/w3m) - Text-based web browser and pager for the terminal.
 * [www.hackitu.de/ranger_color_commands](https://www.hackitu.de/ranger_color_commands/)
+* [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [🌶 Valgrind](https://valgrind.org/)
-* [w3m](https://github.com/tats/w3m) - Text-based web browser and pager for the terminal.
-* [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### 🌐 Network & Remote Access
 * [A network filesystem client to connect to SSH servers](https://github.com/libfuse/sshfs)
@@ -105,7 +106,6 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Greenshot](https://getgreenshot.org/) - make screenshots
 * [imagej.net/ij](https://imagej.net/ij/)
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick)
-* [LuaJIT ffi binding for imgui, backends and extension widgets](https://github.com/sonoro1234/LuaJIT-ImGui)
 * [Meld](https://meldmerge.org/) - Visual diff and merge tool
 * [mpv-cut](https://github.com/familyfriendlymikey/mpv-cut) - Keyframe-sensitive lossless video cutter plugin for mpv.
 * [Open Source differencing and merging tool for Windows](https://winmerge.org/)
@@ -117,10 +117,6 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [web version of imgui_demo with interactive browsing of sources](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html)
 
 ### 📝 Editors & Configurations
-* [.dotfiles](https://github.com/gmr458/.dotfiles)
-* [.dotfiles](https://github.com/jmarcelomb/.dotfiles)
-* [.tmux](https://github.com/gpakosz/.tmux)
-* [A guide to using Lua in Neovim](https://github.com/nanotee/nvim-lua-guide)
 * [A smarter cd command.](https://github.com/ajeetdsouza/zoxide)
 * [A terminal workspace with batteries included](https://github.com/zellij-org/zellij)
 * [A utility tool powered by fzf for using git interactively.](https://github.com/wfxr/forgit)
@@ -131,7 +127,8 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [cmder](https://github.com/cmderdev/cmder)
 * [ConEmu](https://conemu.github.io/)
 * [dev-environment-files](https://github.com/josean-dev/dev-environment-files)
-* [dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391](https://dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391)
+* [.dotfiles](https://github.com/gmr458/.dotfiles)
+* [.dotfiles](https://github.com/jmarcelomb/.dotfiles)
 * [dotfiles](https://github.com/Vallen217/dotfiles)
 * [dotfiles](https://github.com/hendrikmi/dotfiles)
 * [dotfiles](https://github.com/shapeshed/dotfiles)
@@ -159,6 +156,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 * [PuTTY color themes](https://github.com/AlexAkulov/putty-color-themes)
 * [quickref.me/vim](https://quickref.me/vim)
+* [.tmux](https://github.com/gpakosz/.tmux)
 * [tmux](https://github.com/tmux/tmux) - terminal multiplexer
 * [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [tmuxai.dev](http://tmuxai.dev)
@@ -177,19 +175,12 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Zim](https://zim-wiki.org/index.html) - Desktop Wiki
 
 ### 💻 Programming & Libraries
-* [a C++ <-> Lua API wrapper](https://github.com/ThePhD/sol2)
 * [A C++ header-only HTTP/HTTPS server and client library](https://github.com/yhirose/cpp-httplib)
 * [A categorized list of C++ resources](https://github.com/MattPD/cpplinks)
-* [a cross-platform GUI for Lua scripts](https://glu1.sourceforge.io/)
-* [A cross-platform terminal ui library based on Lua](https://github.com/tboox/ltui)
-* [A curated list of quality Lua packages and resources](https://github.com/LewisJEllis/awesome-lua)
 * [A Fast and Easy to use microframework for the web](https://github.com/CrowCpp/Crow)
-* [A lightweight JSON library for Lua](https://github.com/rxi/json.lua)
-* [A lightweight, dependency-free library for binding Lua to C++](https://github.com/vinniefalco/LuaBridge)
 * [A modern and customizable python UI-library based on Tkinter](https://github.com/tomschimansky/customtkinter)
 * [A simple C++11 Thread Pool implementation](https://github.com/progschj/ThreadPool)
 * [a static analysis infrastructure](https://codechecker.readthedocs.io/en/latest/)
-* [A tool for linting and static analysis of Lua code](https://github.com/mpeterv/luacheck)
 * [AddressSanitizer, ThreadSanitizer, MemorySanitizer](https://github.com/google/sanitizers)
 * [An extremely fast Python linter and code formatter](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter written in Rust.
 * [An extremely fast Python package and project manager](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager written in Rust.
@@ -199,17 +190,42 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Creates standalone executables from Python scripts](https://github.com/marcelotduarte/cx_Freeze)
 * [doctest](https://github.com/doctest/doctest) - fastest, single header testing framework
 * [Embedded Scripting Language Designed for C++](https://github.com/ChaiScript/ChaiScript)
-* [Embedding Lua in C](https://lucasklassmann.com/blog/2019-02-02-embedding-lua-in-c/)
 * [Embedding py](https://pybind11.readthedocs.io/en/latest/advanced/embedding.html)
 * [FakeIt](https://github.com/eranpeer/FakeIt) - C++ mocking
 * [Fast C++ logging library](https://github.com/gabime/spdlog)
-* [Feature-rich command line parser for Lua](https://github.com/mpeterv/argparse)
 * [Font-based icons for Tkinter/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap-icons)
 * [GNU DDD](https://www.gnu.org/software/ddd/) - GUI for GDB & CUDA-GDB
 * [header-only C++ libraries](https://github.com/p-ranav/awesome-hpp)
 * [ImTui](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface C++ Library
 * [JSON](https://github.com/nlohmann/json) - JSON for Modern C++ - single header library.
 * [list of C/C++ stuffs](https://github.com/fffaraz/awesome-cpp)
+* [minimal cross-platform standalone C headers](https://github.com/floooh/sokol)
+* [mohitmishra786.github.io/chessman/2024/10/25/Advanced-Memory-Debugging-in-C-A-Deep-Dive-into-Valgrind-and-AddressSanitizer.html](https://mohitmishra786.github.io/chessman/2024/10/25/Advanced-Memory-Debugging-in-C-A-Deep-Dive-into-Valgrind-and-AddressSanitizer.html)
+* [nanobench](https://github.com/andreas-abel/nanoBench) - run small microbenchmarks
+* [Nuitka](https://github.com/Nuitka/Nuitka)
+* [numba.pydata.org](https://numba.pydata.org/)
+* [Portable file server](https://github.com/9001/copyparty)
+* [pyscript](https://github.com/pyscript/pyscript)
+* [Samples for CUDA Developers which demonstrates features in CUDA Toolkit](https://github.com/NVIDIA/cuda-samples)
+* [Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
+* [Simple OpenGL core profile loading](https://github.com/skaslev/gl3w)
+* [stb C/C++](https://github.com/nothings/stb)
+* [Table Maker for Modern C++](https://github.com/p-ranav/tabulate)
+* [The professional Free Pascal RAD IDE](https://www.lazarus-ide.org/)
+
+### 🌙 Lua
+* [a C++ <-> Lua API wrapper](https://github.com/ThePhD/sol2)
+* [a cross-platform GUI for Lua scripts](https://glu1.sourceforge.io/)
+* [A cross-platform terminal ui library based on Lua](https://github.com/tboox/ltui)
+* [A curated list of amazingly awesome LÖVE libraries, resources and shiny things](https://github.com/love2d-community/awesome-love2d)
+* [A curated list of quality Lua packages and resources](https://github.com/LewisJEllis/awesome-lua)
+* [A guide to using Lua in Neovim](https://github.com/nanotee/nvim-lua-guide)
+* [A lightweight JSON library for Lua](https://github.com/rxi/json.lua)
+* [A lightweight, dependency-free library for binding Lua to C++](https://github.com/vinniefalco/LuaBridge)
+* [A tool for linting and static analysis of Lua code](https://github.com/mpeterv/luacheck)
+* [dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391](https://dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391)
+* [Embedding Lua in C](https://lucasklassmann.com/blog/2019-02-02-embedding-lua-in-c/)
+* [Feature-rich command line parser for Lua](https://github.com/mpeterv/argparse)
 * [Lua + libUV + jIT = pure awesomesauce](https://github.com/luvit/luvit)
 * [Lua Cheatsheet](https://devhints.io/lua)
 * [Lua IDE](https://studio.zerobrane.com/)
@@ -218,28 +234,17 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [lua-http](https://github.com/daurnimator/lua-http)
 * [lua-users.org](http://lua-users.org/)
 * [LuaBridge usage samples with a short tutorial](https://github.com/shybovycha/lua-bridge-sample)
+* [LuaJIT ffi binding for imgui, backends and extension widgets](https://github.com/sonoro1234/LuaJIT-ImGui)
 * [LuaJIT notes](https://luapower.com/luajit-notes.html)
 * [luajit.org](https://luajit.org/)
+* [makoserver.net](https://makoserver.net/)
 * [martin-fieber.de/series/lua](https://martin-fieber.de/series/lua/)
-* [minimal cross-platform standalone C headers](https://github.com/floooh/sokol)
-* [mohitmishra786.github.io/chessman/2024/10/25/Advanced-Memory-Debugging-in-C-A-Deep-Dive-into-Valgrind-and-AddressSanitizer.html](https://mohitmishra786.github.io/chessman/2024/10/25/Advanced-Memory-Debugging-in-C-A-Deep-Dive-into-Valgrind-and-AddressSanitizer.html)
-* [nanobench](https://github.com/andreas-abel/nanoBench) - run small microbenchmarks
-* [Nuitka](https://github.com/Nuitka/Nuitka)
-* [numba.pydata.org](https://numba.pydata.org/)
 * [Open source Windows programming framework for Lua](https://github.com/samyeyo/LuaRT)
-* [Portable file server](https://github.com/9001/copyparty)
-* [pyscript](https://github.com/pyscript/pyscript)
-* [Samples for CUDA Developers which demonstrates features in CUDA Toolkit](https://github.com/NVIDIA/cuda-samples)
-* [Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
 * [Simple C++11 friendly header-only bindings to Lua](https://github.com/jeremyong/Selene)
-* [Simple OpenGL core profile loading](https://github.com/skaslev/gl3w)
 * [Simple, debugger for Lua](https://github.com/slembcke/debugger.lua?tab=readme-ov-file)
-* [stb C/C++](https://github.com/nothings/stb)
-* [Table Maker for Modern C++](https://github.com/p-ranav/tabulate)
 * [Tao of Mac](https://taoofmac.com/space/dev/lua)
 * [termtris](https://github.com/tylerneylon/termtris) - A Game like Tetris in Ten Functions
 * [Terra](https://terralang.org/) - A low-level system programming language embedded in and meta-programmed by Lua.
-* [The professional Free Pascal RAD IDE](https://www.lazarus-ide.org/)
 * [TIC-80](https://tic80.com/) - A fantasy computer for making, playing and sharing tiny games.
 * [Tiny class module for Lua](https://github.com/rxi/classic)
 * [tylerneylon.com/a/learn-lua](https://tylerneylon.com/a/learn-lua/)
@@ -250,7 +255,6 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [7 Linux commands to use just for fun](https://opensource.com/article/21/11/fun-linux-commands)
 * [A browser-based frontend to gdb](https://www.gdbgui.com/)
 * [A conda-forge distribution.](https://github.com/conda-forge/miniforge)
-* [A curated list of amazingly awesome LÖVE libraries, resources and shiny things](https://github.com/love2d-community/awesome-love2d)
 * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 * [A tiny JavaScript runtime](https://github.com/saghul/txiki.js)
 * [A webcomic of romance,sarcasm, math, and language.](https://xkcd.com/)
@@ -276,16 +280,15 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [godbolt.org](https://godbolt.org/)
 * [Hacker News](https://news.ycombinator.com/)
 * [How to write Buffer Overflows](https://insecure.org/stf/mudge_buffer_overflow_tutorial.html)
-* [Just Fucking Use...](https://justfuckinguse.com/) - The central, no-nonsense hub that aggregates all "Just Fucking Use" opinionated tech rants and manifestos.
 * [Just Fucking Use Cron](https://justfuckingusecron.com/) - A direct, hilarious reminder to stop building complex distributed schedulers for tasks that just need a simple cron job.
 * [Just Fucking Use HTML](https://justfuckingusehtml.com/) - A humorous, plain-speaking advocacy for using simple HTML over complex JavaScript frameworks.
 * [Just Fucking Use Plaintext](https://justfuckinguseplaintext.com/) - A direct, humorous manifesto advocating for plaintext formats over complex, proprietary UIs, note-taking apps, and binary configurations.
 * [Just Fucking Use Tmux](https://justfuckingusetmux.com/) - A hilarious and direct reminder to always run tmux to avoid losing terminal sessions.
+* [Just Fucking Use...](https://justfuckinguse.com/) - The central, no-nonsense hub that aggregates all "Just Fucking Use" opinionated tech rants and manifestos.
 * [justine.lol](https://justine.lol/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
 * [Linux blog](https://www.tecmint.com/)
 * [linuxjourney.com](https://linuxjourney.com/)
-* [makoserver.net](https://makoserver.net/)
 * [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 * [mohitmishra786.github.io/reversingBits](https://mohitmishra786.github.io/reversingBits/)
 * [morefine.com](https://morefine.com/)
