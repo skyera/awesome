@@ -240,6 +240,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [termtris](https://github.com/tylerneylon/termtris) - A Game like Tetris in Ten Functions
 * [Terra](https://terralang.org/) - A low-level system programming language embedded in and meta-programmed by Lua.
 * [The professional Free Pascal RAD IDE](https://www.lazarus-ide.org/)
+* [TIC-80](https://tic80.com/) - A fantasy computer for making, playing and sharing tiny games.
 * [Tiny class module for Lua](https://github.com/rxi/classic)
 * [tylerneylon.com/a/learn-lua](https://tylerneylon.com/a/learn-lua/)
 
