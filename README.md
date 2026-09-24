@@ -52,6 +52,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [system monitor](https://github.com/nicolargo/glances)
 * [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Command line Task Management
 * [Terminal file manager](https://github.com/gokcehan/lf)
+* [Terminal Trove](https://terminaltrove.com/) - The $HOME of all things in the terminal; curated directory of CLI and TUI tools.
 * [The largest Awesome Curated list of CLI/TUI applications](https://github.com/toolleeo/cli-apps)
 * [Tig](https://jonas.github.io/tig/) - text-mode interface for Git
 * [tldr](https://tldr.sh/) - man pages
