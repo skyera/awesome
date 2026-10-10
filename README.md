@@ -107,6 +107,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [Greenshot](https://getgreenshot.org/) - make screenshots
 * [imagej.net/ij](https://imagej.net/ij/)
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick)
+* [Jellyfin](https://jellyfin.org/) - Free software media server for managing and streaming your media.
 * [Meld](https://meldmerge.org/) - Visual diff and merge tool
 * [mpv-cut](https://github.com/familyfriendlymikey/mpv-cut) - Keyframe-sensitive lossless video cutter plugin for mpv.
 * [Open Source differencing and merging tool for Windows](https://winmerge.org/)
