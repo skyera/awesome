@@ -98,6 +98,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [contExt](https://github.com/RafaelCasamaximo/contExt)
 * [Converts jpg images to ASCII](https://github.com/cslarsen/jp2a)
 * [Dear ImGui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies.
+* [Dear ImGui Bundle](https://github.com/pthom/imgui_bundle) - Interactive Python & C++ apps for desktop, mobile, and web powered by Dear ImGui.
 * [DearBagPlayer](https://github.com/Magic-wei/DearBagPlayer)
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
 * [Dia Diagram Editor](https://sourceforge.net/projects/dia-installer/)
