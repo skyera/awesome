@@ -48,7 +48,7 @@ A curated list of awesome software, tools, libraries, configurations, and learni
 * [scoop A command-line installer for Windows](https://scoop.sh/)
 * [Share your terminal over the web](https://github.com/tsl0922/ttyd)
 * [simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
-* [superfile](https://github.com/yorukot/superfile)
+* [superfile](https://superfile.dev/) - A fancy, modern terminal file manager.
 * [system monitor](https://github.com/nicolargo/glances)
 * [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Command line Task Management
 * [Terminal file manager](https://github.com/gokcehan/lf)
